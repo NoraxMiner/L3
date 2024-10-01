@@ -6,17 +6,17 @@ if int(R) >= 0:
 
     L = int
     L = 2*3.14*int(R)
-    print(str(L) + " сантиметров")
+    print(str(L) + " длинна оркружности в сантиметрах")
     Lm = int
     Lm = int(L)/100
-    print(str(Lm) + " метров ")
+    print(str(Lm) + " длинна оркружности  в метрах ")
 
     S = int
     S = 3.14*int(R)*int(R)
-    print(str(S) + " сантиметров")
+    print(str(S) + " площадь оркружности сантиметрах")
     Sm = int 
     Sm =  int(S)/100
-    print(str(Sm) + " метров квадратных")    
+    print(str(Sm) + " площадь оркружности в метрах")    
 
 
     Sk = int 
